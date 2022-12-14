@@ -1,7 +1,7 @@
-## Monty Interpreter
+# Monty Interpreter
 A language interpreter made in the C programming language to manage stacks and queues (LIFO and FIFO). The aim is to interpret Monty bytecodes files. Monty is a language that aims to close the gap between scripting and programming languages.
 
-### Requirements
+## Requirements
 * Allowed editors: vi, vim, emacs
 * All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c90
 * All your files should end with a new line
@@ -14,11 +14,11 @@ A language interpreter made in the C programming language to manage stacks and q
 * Don’t forget to push your header file
 * All your header files should be include guarded
 * You are expected to do the tasks in the order shown in the project
-Compilation
+## Compilation
 To compile this project, you can use the following command:
 
 $ make
-Allowable opcodes and what they do
+## Allowable opcodes and what they do
 opcode	functionality
 push	add element to the 'top' of stack and 'end' of queue
 pop	remove element from 'top' of stack and 'end' of queue
@@ -85,16 +85,16 @@ $ ./montyfile opcodetestfile.m
 
 3
 
-Exit Status
+## Exit Status
 Exits with status EXIT_FAILURE
 
-Compilation
+## Compilation
 All files were compiled on Ubuntu 14.04 LTS.
 
 All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werror -Wextra and -pedantic.
 
-Styling
+## Styling
 All files have been written in the Betty Style.
 
-Authors
-Yonas Leykun
+## Authors
+James Chiedozie James
