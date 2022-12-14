@@ -19,8 +19,9 @@ To compile this project, you can use the following command:
 
 $ make
 ## Allowable opcodes and what they do
-opcode	functionality
-push	add element to the 'top' of stack and 'end' of queue
+| opcode	| functionality |
+| ------- | ------------- |
+| push | add element to the 'top' of stack and 'end' of queue|
 pop	remove element from 'top' of stack and 'end' of queue
 pall	print every member of the structure
 pint	prints the member value at the top of stack
