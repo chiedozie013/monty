@@ -22,9 +22,9 @@ $ make
 | opcode	| functionality |
 | ------- | ------------- |
 | push | add element to the 'top' of stack and 'end' of queue|
-pop	remove element from 'top' of stack and 'end' of queue
-pall	print every member of the structure
-pint	prints the member value at the top of stack
+| pop	| remove element from 'top' of stack and 'end' of queue
+| pall | print every member of the structure
+| pint | prints the member value at the top of stack
 swap	swaps the order of the 1st and 2nd elements in stack
 add	add top two member values
 sub	subtract the top element from the 2nd top element
