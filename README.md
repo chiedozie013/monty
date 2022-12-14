@@ -38,6 +38,7 @@ $ make
 | rotr | the bottom of the stack becomes the top
 | queue, stack | toggles the doubly link list implementation style
 | nop	| opcode should do nothing
+
 Examples: $ cat opcodetestfile.m
 
 push 1
@@ -97,5 +98,5 @@ All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werro
 ## Styling
 All files have been written in the Betty Style.
 
-## Authors
+## Author
 James Chiedozie James
